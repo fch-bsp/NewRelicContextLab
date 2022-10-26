@@ -1,0 +1,20 @@
+https://developer.newrelic.com/collect-data/monitor-your-application/set-up-env/
+
+
+Clone the lab repository.
+
+
+git clone https://github.com/newrelic-experimental/NewRelic-basics-lab-material.git
+
+
+Navigate to the root directory of your application, install dependencies, and run the application.
+
+
+
+cd NewRelic-basics-lab-material/FoodMe
+npm install
+node ./server/start.js
+
+
+
+
